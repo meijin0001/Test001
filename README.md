@@ -1,1 +1,1 @@
-# このファイルはGITの検証用(meijinfirm)です。
+# このファイルはGITの検証用(Windows-Note)です。
