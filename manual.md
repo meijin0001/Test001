@@ -5,6 +5,7 @@
 1. XXX
 2. YYY
 3. ZZZ
+4. AAA
 ## ③宅配便
 |No.|Name
 |--|--
